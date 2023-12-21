@@ -26,7 +26,6 @@ namespace ConsoleApp1
             owl.animalSound();
 
             Ga ga = new Ga();
-            ga.animalSound();
         }
     }
 }

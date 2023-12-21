@@ -43,13 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
-    <Compile Include="Car.cs" />
-    <Compile Include="CarRenew.cs" />
-    <Compile Include="Dog.cs" />
-    <Compile Include="Ga.cs" />
-    <Compile Include="Owl.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="NewFolder1\FileName.cs" />
+    <Compile Include="object\Animal.cs" />
+    <Compile Include="object\Car.cs" />
+    <Compile Include="object\CarRenew.cs" />
+    <Compile Include="object\Dog.cs" />
+    <Compile Include="object\Ga.cs" />
+    <Compile Include="object\Owl.cs" />
+    <None Include="object\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
