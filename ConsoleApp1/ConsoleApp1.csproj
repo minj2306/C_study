@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NewFolder1\FileName.cs" />
+    <None Include="NewFolder1\FileName.cs" />
+    <None Include="Array\Class1.cs" />
+    <None Include="Condition\If.cs" />
+    <None Include="Condition\Switch.cs" />
     <Compile Include="object\Animal.cs" />
     <Compile Include="object\Car.cs" />
     <Compile Include="object\CarRenew.cs" />
