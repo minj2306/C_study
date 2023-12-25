@@ -47,6 +47,10 @@
     <None Include="Array\Class1.cs" />
     <None Include="Condition\If.cs" />
     <None Include="Condition\Switch.cs" />
+    <None Include="For\For.cs" />
+    <None Include="Exceptions\ExceptionEx.cs" />
+    <Compile Include="Function\Class1.cs" />
+    <Compile Include="Function\Function.cs" />
     <Compile Include="object\Animal.cs" />
     <Compile Include="object\Car.cs" />
     <Compile Include="object\CarRenew.cs" />
